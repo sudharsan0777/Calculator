@@ -97,6 +97,3 @@ function calculate(){
         document.querySelector('.screen').innerText='Error';
     }
 }
-function empty() {
-    return null;
-}
